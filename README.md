@@ -23,16 +23,16 @@ After adding to JS code, the site now give pop-up prompts for generating a passw
 
 ## Screenshots:
 
-![Capture of deployed application](./assets/Capture1.PNG)
+![Capture of deployed application](./Assets/Capture1.PNG)
 
-![Capture of deployed application](./assets/Capture2.PNG)
+![Capture of deployed application](./Assets/Capture2.PNG)
 
-![Capture of deployed application](./assets/Capture3.PNG)
+![Capture of deployed application](./Assets/Capture3.PNG)
 
-![Capture of deployed application](./assets/Capture4.PNG)
+![Capture of deployed application](./Assets/Capture4.PNG)
 
-![Capture of deployed application](./assets/Capture5.PNG)
+![Capture of deployed application](./Assets/Capture5.PNG)
 
-![Capture of deployed application](./assets/Capture6.PNG)
+![Capture of deployed application](./Assets/Capture6.PNG)
 
-![Capture of deployed application](./assets/Capture7.PNG)
+![Capture of deployed application](./Assets/Capture7.PNG)
